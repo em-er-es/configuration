@@ -1,1 +1,1 @@
-# Configuration repository - 2015
+# Configuration repository
